@@ -18,10 +18,7 @@ namespace CapaDatos
             this.idUsuario = idUsuario;
         }
 
-        public sentencia()
-        {
 
-        }
 
         public OdbcDataAdapter consultarUsuarios()
         {
