@@ -21,9 +21,6 @@ namespace CapaDatos
             }
             catch (OdbcException ex)
             { 
-            
-                Console.WriteLine("No conecto la Base de Datos ", ex);
-                return null;
             }
         }
     }
