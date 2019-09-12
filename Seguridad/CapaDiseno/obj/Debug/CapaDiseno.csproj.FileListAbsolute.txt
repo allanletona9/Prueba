@@ -1,0 +1,75 @@
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.csprojAssemblyReference.cache
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.csproj.GenerateResource.cache
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.csproj.CoreCompileInputs.cache
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\bin\Debug\CapaDiseno.dll
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\bin\Debug\CapaDiseno.pdb
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\bin\Debug\CapaLogica.dll
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\bin\Debug\CapaLogica.pdb
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.csproj.CopyComplete
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.dll
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.pdb
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.Properties.Resources.resources
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_modulos.resources
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_aplicaciones.resources
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_asignacion_aplicaciones.resources
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_asignacion_perfiles.resources
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_usuarios.resources
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\bin\Debug\CapaDatos.dll
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\bin\Debug\CapaDatos.pdb
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.MDI_Seguridad.resources
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_login.resources
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_loginAlterno.resources
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_asignacion_aplicaciones_perfiles.resources
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_cambioclave.resources
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_perfiles_mantenimiento.resources
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\bin\Debug\CapaDiseno.dll
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\bin\Debug\CapaDiseno.pdb
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\bin\Debug\CapaDatos.dll
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\bin\Debug\CapaLogica.dll
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\bin\Debug\CapaDatos.pdb
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\bin\Debug\CapaLogica.pdb
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.csprojAssemblyReference.cache
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_aplicaciones.resources
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_asignacion_aplicaciones.resources
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_asignacion_aplicaciones_perfiles.resources
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_asignacion_perfiles.resources
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_cambioclave.resources
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_login.resources
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_loginAlterno.resources
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_modulos.resources
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_mostrar_bitacora.resources
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_perfiles_mantenimiento.resources
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_usuarios.resources
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.MDI_Seguridad.resources
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.Properties.Resources.resources
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.csproj.GenerateResource.cache
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.csproj.CoreCompileInputs.cache
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.csproj.CopyComplete
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.dll
+D:\Octavo semestre\Analisis de sistemas II\ModuloSeguridad\Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.pdb
+C:\Users\allan\Desktop\Octavo Semestre\Analisis De Sistemas II\Objetos Comunes\Modulo Seguridad\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_mostrar_bitacora.resources
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\bin\Debug\CapaDiseno.dll
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\bin\Debug\CapaDiseno.pdb
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\bin\Debug\CapaDatos.dll
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\bin\Debug\CapaLogica.dll
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\bin\Debug\CapaDatos.pdb
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\bin\Debug\CapaLogica.pdb
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.csprojAssemblyReference.cache
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_aplicaciones.resources
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_asignacion_aplicaciones.resources
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_asignacion_aplicaciones_perfiles.resources
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_asignacion_perfiles.resources
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_cambioclave.resources
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_login.resources
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_loginAlterno.resources
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_modulos.resources
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_mostrar_bitacora.resources
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_perfiles_mantenimiento.resources
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.frm_usuarios.resources
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.MDI_Seguridad.resources
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.Properties.Resources.resources
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.csproj.GenerateResource.cache
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.csproj.CoreCompileInputs.cache
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.csproj.CopyComplete
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.dll
+C:\Users\allan\Desktop\Seguridad\CapaDiseno\obj\Debug\CapaDiseno.pdb
